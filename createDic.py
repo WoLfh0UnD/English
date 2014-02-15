@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+"""
+root __doc__
+"""
 import os
 import sys
 import time
@@ -35,6 +38,13 @@ def checkOS():
 
 @timer
 def main(argv=None):
+
+    """
+    Main __doc__
+    """
+
+    print __doc__
+
     if argv is None:
         argv = sys.argv
     source = sys.path[0] + checkOS() + 'source.txt'
