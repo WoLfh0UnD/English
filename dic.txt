@@ -1,0 +1,15 @@
+advised - рекомендуется
+appid - AppID
+carry - нести
+conditions - обстановка
+discard - отбрасывать
+each - каждый
+immediately - немедленно
+once - один раз
+send - послать
+sent - посланный
+seqnum - SEQNUM
+such - такие
+whether - ли
+via - через
+request - запрос
