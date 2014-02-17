@@ -86,6 +86,10 @@ def normalize(source):
 
 
 def invert_dict(d):
+    """
+    This function uses for inverting the dict:
+        {word0:1, word1:3} --> {1:word0, 3:word1}
+    """
     inv = dict()
     for key in d:
         val = d[key]
