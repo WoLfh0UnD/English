@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-root __doc__
+Test Tool for creating dictionary file for learning
 """
 import os
 import sys
